@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Marco and i live in Brazil.
+
+- 🌱 I’m currently learning **HTML5, CSS3, Javascript, UI/UX.** 
+
 <!--
 **MarcoMacias/MarcoMacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
