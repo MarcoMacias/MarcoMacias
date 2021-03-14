@@ -1,9 +1,9 @@
 # Hi there 👋
 
-## My name is Marco Antonio and i live in Brazil. I study programming since 10 years old. I always looking for learning!
+## My name is Marco Antonio and i live in Brazil, i study programming since 10 years old. I'm a front end developer, and always looking for learning!
 
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, UI/UX.** 
-- 📫 How to reach me: 
+- 💬 Ask me about tech, games, astronomy.
 
 Things i like to do
 - 🖥 Web Applications
