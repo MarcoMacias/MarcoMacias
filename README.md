@@ -1,10 +1,13 @@
-# Hi there 👋 My name is Marco Antonio
+# Hi there 👋
 
-## I live in Brazil.
+## My name is Marco Antonio and i live in Brazil. I study programming since 10 years old. I always looking for learning!
 
 - 🌱 I’m currently learning **HTML5, CSS3, Javascript, UI/UX.** 
 - 📫 How to reach me: 
 
+Things i like to do
+- 🖥 Web Applications
+- 🎨 Interfaces
 <!--
 **MarcoMacias/MarcoMacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
