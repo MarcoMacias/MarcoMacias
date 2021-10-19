@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Marco Antonio.
+# Hi there 👋
 
 ### My name is Marco Antonio, i study programming since 10 years old. I'm a front end developer, and always looking for learning!
 
