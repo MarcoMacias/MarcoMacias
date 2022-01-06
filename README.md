@@ -6,8 +6,8 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="MarcoMarcoMarco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MarcoMarcoMarco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MarcoMarcoReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Marco-pic" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/attachments/669349508831772683/928753414983278672/69091930.png?width=676&height=676">
