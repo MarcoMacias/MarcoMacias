@@ -2,7 +2,7 @@
 
 ## Marco Antonio
 
-Director <a href="https://github.com/varselcombr/"><b>@varselcombr</b></a>
+Front-End Developer
 I love to make things other people will have fun with
 
 
