@@ -2,7 +2,7 @@
 
 ## Marco Antonio
 
-Front-End Developer
+Front-End Developer |
 I love to make things other people will have fun with
 
 
